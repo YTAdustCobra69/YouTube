@@ -1,0 +1,12 @@
+(Debian/Ubuntu)
+
+sudo apt install python3-pip
+sudo pip3 install bpytop
+
+(Arch)
+
+sudo pacman -Sy bpytop
+
+(Fedora/CentOS)
+
+sudo yum install bpytop
